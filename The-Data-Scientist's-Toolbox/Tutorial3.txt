@@ -8,11 +8,8 @@ What is the most important thing in Data Science?
 The question you are trying to answer.
 
 ###Question 3
-If the goal of a study was to relate Martha Stewart Living Subscribers to Our Site's Users based on the number of people that lived in each region of the US, what would be the potential problem? 
-There would be confounding because the number of people that live in an area is related to both Martha Stewart Living Subscribers and Our Site's Users.	
-We would be data dredging because we collected data on thousands of places in the United States.			
+If the goal of a study was to relate Martha Stewart Living Subscribers to Our Site's Users based on the number of people that lived in each region of the US, what would be the potential problem? 	
 We would be performing inference on the relationship between Martha Stewart Living Subscribers and Our Site's Users.			
-We couldn't be sure whether subscribing to Martha Steward Living causes people to be Users of Our Site or the other way around.
 
 ###Question 4
 What is an experimental design tool that can be used to address variables that may be confounders at the design phase of an experiment?
